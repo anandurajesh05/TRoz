@@ -15,6 +15,12 @@ A modern web application built using **Vite + React**, focused on performance an
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### 📊 Cart
+![Dashboard](screenshots/cart.png)
+
+### 📊 Invoice
+![Dashboard](screenshots/invoice.png)
+
 ---
 
 ## 🛠 Tech Stack
